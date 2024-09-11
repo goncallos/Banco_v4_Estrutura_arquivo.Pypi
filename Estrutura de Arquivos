@@ -1,0 +1,26 @@
+my_frontend_project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── deposit.html
+│   │   ├── withdraw.html
+│   │   └── statement.html
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       └── script.js
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_routes.py
+│
+├── setup.py
+├── README.md
+└── requirements.txt
